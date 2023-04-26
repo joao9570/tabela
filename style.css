@@ -1,0 +1,79 @@
+*{
+margin: 0 auto;
+font-weight: normal;
+font-size: 16px;
+font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: rgb(240,240,240);
+}
+.header{
+height: 100px;
+color: white;
+background-color: #162E58;
+}
+.header h1{
+    padding-top: 15px;
+    padding-left: 30px;
+}
+.header h2{
+    text-align: center;
+    margin-top: 35px;
+}
+.grupos, .gols{
+    width: 50%;
+    margin: 0 auto;
+    font-size: 14px;
+    background-color: white;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+    margin-top: 15px;
+    padding: 5px;
+}
+th, td{
+    border-top: 0.5px solid #70757A;
+}
+th{
+    color: #70757A;
+    border-top: none;
+}
+.grupos h3{
+    padding-top: 20px;
+    font-weight: bold;
+}
+.left{
+    text-align: left;
+}
+.img-clube{
+    width: 24px;
+    height: 24px;
+}
+.bl-clube{
+    border-left: 3px solid #4285f4;
+}
+.bl-orange{
+    border-left: 3px solid #fa7b17;
+}
+.w200{
+    width: 200px;
+}
+.img-jogador{
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+}
+.w40{
+    width: 40px;
+}
+.gols img{
+    margin-right: 20px;
+}
+.gols h3{
+    padding-top: 20px;
+    background-color: #162E58;
+    color: white;
+    font-size: 16px;
+}
